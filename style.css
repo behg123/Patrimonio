@@ -1,0 +1,32 @@
+.square{
+  background-color: Gray; 
+  text-align: center;
+  width: 50%;
+  height: 50%;
+  border-radius: 25px;
+
+}
+
+.titulo{
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.texto1{
+  font-weight: bold;
+  font-size: 18px;
+  text-align: left;
+}
+
+.texto2{
+  
+  font-weight: bold;
+  font-size: 18px;
+  text-align: right;
+}
+
+.divConfig{
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
